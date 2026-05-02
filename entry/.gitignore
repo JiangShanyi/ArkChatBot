@@ -1,0 +1,17 @@
+# DevEco / HarmonyOS generated files
+.hvigor/
+oh_modules/
+**/build/
+local.properties
+
+# Node backend files, if you put backend in this repo
+node_modules/
+.env
+.env.*
+
+# Logs
+*.log
+
+# System
+.DS_Store
+Thumbs.db
